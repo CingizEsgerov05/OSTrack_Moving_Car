@@ -10,7 +10,7 @@ Single-object video tracking using **OSTrack** (One-Stream Tracking, *ECCV 2022*
 ## Demo
 
 <!-- Replace with an actual GIF or screenshot: assets/demo.gif -->
-`assets/demo.gif`
+`assets/tracked_output.gif`
 
 ## How it works
 
