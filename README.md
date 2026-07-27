@@ -55,7 +55,7 @@ The notebook is split into 8 self-contained cells, run top to bottom:
 
 ```
 .
-├── OSTrack.ipynb   # Main Colab notebook
+├── OSTrack.ipynb            # Main Colab notebook
 ├── assets/                  # Demo Output GIF / sample frames
 ├── README.md
 ```
